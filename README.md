@@ -24,7 +24,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineering student** at **An-Najah National University (NNU), Palestine**.  
+I'm a **Software Engineering ** at **PadiaPay, Dubai**.  
 What started as a childhood dream has grown into a real passion for building **modern, useful, and well-crafted software**.
 
 I enjoy working on **mobile applications**, **web systems**, and **user-focused interfaces**, while also strengthening my skills in **testing, clean architecture, and scalable software design**.
