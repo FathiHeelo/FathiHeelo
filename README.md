@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Mobile+Developer;Full-Stack+Developer;QA+%26+Automation+Enthusiast;Building+clean+and+user-focused+software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Mobile+Developer;Full-Stack+Developer;QA+%26+Automation+Enthusiast;Hackathon+Winner;Building+clean+and+user-focused+software" alt="Typing SVG" />
 
 </div>
 
@@ -24,16 +24,55 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineering ** at **PadiaPay, Dubai**.  
-What started as a childhood dream has grown into a real passion for building **modern, useful, and well-crafted software**.
+I'm a **Software Engineering student at An-Najah National University** with a strong interest in building modern, useful, and user-focused software.
 
-I enjoy working on **mobile applications**, **web systems**, and **user-focused interfaces**, while also strengthening my skills in **testing, clean architecture, and scalable software design**.
+What started as a childhood dream has grown into a real passion for **mobile development, full-stack systems, software architecture, and product development**.
+
+I enjoy working on real-world projects, hackathons, and startup ideas where I can turn problems into practical technical solutions.
 
 - 📱 Interested in **Mobile Development**
-- 🎨 Passionate about **UI/UX and user-centered design**
 - 🌐 Building **Full-Stack Applications**
+- 🎨 Passionate about **UI/UX and user-centered design**
+- 🧠 Interested in **AI-powered product features**
 - 🧪 Exploring **QA, E2E Testing, and Automation**
+- 🚀 Active in **hackathons, startups, and innovation competitions**
 - 🎯 Long-term goal: **build impactful products and launch my own tech company**
+
+---
+
+## 🏆 Hackathons & Achievements
+
+### 🥇 Google Innovation Hackathon 2026
+
+**1st Place Overall — An-Najah National University**  
+**1st Place — Mobile Development Track**
+
+Competed with more than 120 students across multiple teams and earned first place overall and first place in the Mobile Development track.
+
+---
+
+### 🥇 Microsoft Social Innovation 2026
+
+**Winner — Jordan & Palestine**
+
+Won the competition with a civic-tech solution focused on connecting universities, municipalities, students, and communities through technology.
+
+---
+
+### 🥉 Jerusalem Hackathon 2026
+
+**3rd Place**
+
+Earned third place with a technology solution focused on improving maintenance services and connecting customers with trusted technicians.
+
+---
+
+### 🚀 NASA Space Apps Challenge 2025
+
+**3rd Place in Palestine**  
+**NASA Global Nominee**
+
+Participated in NASA Space Apps Challenge and advanced as a **Global Nominee** after placing third locally in Palestine.
 
 ---
 
@@ -44,7 +83,7 @@ I enjoy working on **mobile applications**, **web systems**, and **user-focused 
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/Mobile-Development-22c55e?style=for-the-badge" />
       <br /><br />
-      React Native, Flutter basics, responsive thinking, app-focused UX
+      React Native, Expo, responsive thinking, app-focused UX
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/UI%2FUX-Design-a855f7?style=for-the-badge" />
@@ -54,7 +93,7 @@ I enjoy working on **mobile applications**, **web systems**, and **user-focused 
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/Full--Stack-Web-2563eb?style=for-the-badge" />
       <br /><br />
-      React, Laravel, REST APIs, Firebase, modern web applications
+      React, Laravel, Node.js, REST APIs, Firebase, modern web applications
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/QA%20%26%20Testing-ef4444?style=for-the-badge" />
@@ -71,6 +110,7 @@ I enjoy working on **mobile applications**, **web systems**, and **user-focused 
 ### Mobile
 <p>
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter%20(Basics)-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart%20(Basics)-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
@@ -78,9 +118,18 @@ I enjoy working on **mobile applications**, **web systems**, and **user-focused 
 ### Frontend & Web
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20APIs-0f172a?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ### Languages
@@ -89,6 +138,7 @@ I enjoy working on **mobile applications**, **web systems**, and **user-focused 
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00add8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599c?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
@@ -107,18 +157,9 @@ I enjoy working on **mobile applications**, **web systems**, and **user-focused 
   <img src="https://img.shields.io/badge/E2E%20Testing-16a34a?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Automation%20Testing-dc2626?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
----
-
-## 📌 Featured Projects
-
-- **Bug Tracking System** — Manual testing and issue management project in Java  
-- **TMPS Refactored System** — Refactoring project applying design patterns and clean architecture  
-- **Event Processing System** — Advanced refactoring with scalable design decisions  
-- **Failure Keyword Analyzer** — C++ regex mini project for text analysis  
-- **Playwright Testing Framework** — End-to-end automated testing for e-commerce flows  
 
 ---
 
@@ -151,10 +192,11 @@ I enjoy working on **mobile applications**, **web systems**, and **user-focused 
 ## 🎯 Current Goals
 
 - Building better **mobile-first applications**
-- Improving **UI/UX thinking and frontend quality**
+- Improving **backend architecture and system design**
 - Advancing in **QA automation and Playwright**
+- Exploring more **AI-powered software features**
 - Writing cleaner, more scalable software
-- Growing through projects, problem solving, and continuous learning
+- Growing through **projects, hackathons, problem solving, and continuous learning**
 
 ---
 
@@ -168,6 +210,6 @@ I enjoy working on **mobile applications**, **web systems**, and **user-focused 
 
 <div align="center">
 
-### ✨ Code • Design • Test • Improve
+### ✨ Code • Design • Build • Test • Improve
 
 </div>
