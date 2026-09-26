@@ -23,12 +23,11 @@
 ---
 
 ## 🚀 About Me
-
-I'm a **Software Engineering student at An-Najah National University** with a strong interest in building modern, useful, and user-focused software.
+I'm a **Software Engineering Intern at Foothill Technology Solutions**, with **more than one year of hands-on experience in mobile development**.
 
 What started as a childhood dream has grown into a real passion for **mobile development, full-stack systems, software architecture, and product development**.
 
-I enjoy working on real-world projects, hackathons, and startup ideas where I can turn problems into practical technical solutions.
+I enjoy working on real-world projects, hackathons, and startup ideas where I can turn problems into practical, user-focused technical solutions.
 
 - 📱 Interested in **Mobile Development**
 - 🌐 Building **Full-Stack Applications**
@@ -138,7 +137,6 @@ Participated in NASA Space Apps Challenge and advanced as a **Global Nominee** a
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00add8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599c?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
